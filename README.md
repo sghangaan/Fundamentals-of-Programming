@@ -1,3 +1,24 @@
+
+
+
+
+
+
+
+![Fundamental of Programming Header](https://github.com/SG-Hangaan/Fundamentals-of-Programming/assets/127215110/a3bf62dc-cf7d-40a7-86d4-7b8dae1caaf7)
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Fundamentals-of-Programming
 Welcome to the Fundamentals of Java Programming for Beginners! 🚀 If you're new to the world of programming and eager to learn Java, one of the most popular and versatile programming languages, you're in the right place.
 
