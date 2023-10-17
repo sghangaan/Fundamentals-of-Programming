@@ -6,12 +6,21 @@ Welcome to the Fundamentals of Java Programming for Beginners! 🚀 If you're ne
 
 # What will you learn?
 
-📌 Basic Concepts: Understand fundamental programming concepts such as variables, data types, and control structures. <br>
-📌 Object-Oriented Programming (OOP): Grasp the principles of OOP, a key paradigm in Java, including classes,  <br>
-                         objects, inheritance, encapsulation, and polymorphism. <br>
-📌 Java Syntax: Master the syntax of Java, from conditional statements and loops to methods and exception handling.  <br>
-📌 Common Algorithms and Data Structures: Learn essential algorithms and data structures, enabling you to solve problems efficiently. <br>
-📌 Hands-On Projects: Apply your knowledge through hands-on projects, gaining practical experience in Java application development.  <br>
+**Basic Concepts:** Understand fundamental programming concepts such as variables, data types, and control structures. <br>
+
+**Object-Oriented Programming (OOP):** Grasp the principles of OOP, a key paradigm in Java, <br>
+including classes,  objects, inheritance, encapsulation, and polymorphism. <br>
+
+                         
+**Java Syntax:** Master the syntax of Java, from conditional statements and loops to <br>
+methods and exception handling.  <br>
+
+
+**Common Algorithms and Data Structures:** Learn essential algorithms and data structures, <br>
+enabling you to solve problems efficiently. <br>
+
+**Hands-On Projects:** Apply your knowledge through hands-on projects, gaining practical experience <br>
+in Java application development.  <br>
 
 
 
