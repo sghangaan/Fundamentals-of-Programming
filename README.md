@@ -4,6 +4,11 @@
 # Fundamentals-of-Programming
 Welcome to the Fundamentals of Java Programming for Beginners! 🚀 If you're new to the world of programming and eager to learn Java, one of the most popular and versatile programming languages, you're in the right place. 👩‍💻✨
 
+
+# Who is this repository/course for?
+This repository/course is designed for absolute beginners who have little to no experience in programming. Whether you're a student, a professional looking to switch careers, or someone simply curious about coding, this course will lay a solid foundation for your Java programming journey.
+
+
 # What will you learn?
 
 **Basic Concepts:** Understand fundamental programming concepts such as variables, data types, and control structures. <br>
